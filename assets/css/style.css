@@ -11,3 +11,16 @@ body {
     font-weight: 400;
     color: black;
 }
+
+/* Headings and Logo*/
+
+h1,
+h2 {
+    font-family: Signika Negative, sans-serif;
+    color: darkgreen;
+}
+
+#logo {
+    float: left;
+    font-size: 500%;
+}
