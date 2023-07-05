@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative&family=Urbanist:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: Signika Negative, sans-serif;
+    font-weight: 400;
+    font-size: x-large;
+}
