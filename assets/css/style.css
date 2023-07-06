@@ -55,3 +55,11 @@ h2 {
 .active {
     border-bottom: 2px solid darkgreen;
 }
+
+/* hero image */
+
+#hero-image {
+    height: 800px;
+    width: 100%;
+    background: url('../images/Hero\ Image.jpg') no-repeat center center;
+}
