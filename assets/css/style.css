@@ -58,8 +58,33 @@ h2 {
 
 /* hero image */
 
+#hero-drift {
+    height: 800px;
+    width: 100%;
+    overflow: hidden;
+}
+
 #hero-image {
     height: 800px;
     width: 100%;
-    background: url('../images/Hero\ Image.jpg') no-repeat center center;
+    background: url('../images/hero-image.jpg') no-repeat center center;
+
+
+    /* animation drift effect on landing page*/
+
+    animation-name: hero-drift;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* level of drift of hero image */
+
+@keyframes hero-drift {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
 }
