@@ -158,3 +158,13 @@ footer {
 
 
 }
+
+/*additional info */
+
+#add-info {
+    padding: 10px 0 10px 0;
+    width: 65%;
+    margin: auto;
+    text-align: center;
+    font-size: 150%;
+}
