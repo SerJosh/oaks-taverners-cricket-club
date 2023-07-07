@@ -126,3 +126,24 @@ footer {
     padding: 4%;
     color: white;
 }
+
+/* about us main content */
+
+#about-us {
+    height: 800px;
+
+}
+
+#left-about {
+    padding-top: 30px;
+    width: 40%;
+    float: left;
+    background-color: blueviolet;
+}
+
+#right-about {
+    padding-top: 30px;
+    width: 40%;
+    float: right;
+    background-color: brown;
+}
