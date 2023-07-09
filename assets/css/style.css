@@ -189,3 +189,11 @@ footer {
 }
 
 /* contact us */
+
+#contact-us {
+    clear: both;
+    background: url('../images/ball-g767b9fbcb_1280.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 800px
+}
