@@ -276,7 +276,7 @@ hr {
 }
 
 .text-input:hover {
-    border-color: #f16c6b;
+    border-color: lightgreen;
 }
 
 .submit-button {
@@ -285,17 +285,17 @@ hr {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #f16c6b;
-    color: #fafafa;
+    background-color: lightgreen;
+    color: black;
     display: block;
 }
 
 .submit-button:hover {
     background-color: #fafafa;
-    color: #f16c6b;
+    color: darkgreen;
 }
 
 #message {
- height: 100px;
- 
+    height: 100px;
+
 }
