@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Signika+Negative&family=Urbanist:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Germania+One&family=Urbanist:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -16,7 +16,7 @@ body {
 
 h1,
 h2 {
-    font-family: Signika Negative, sans-serif;
+    font-family: Germania One, sans-serif;
     color: darkgreen;
     font-size: 200%;
 }
