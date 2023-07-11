@@ -26,11 +26,14 @@ h2 {
     font-size: 500%;
 }
 
+
+
 #sigil {
     height: 150px;
     width: 10%;
     display: inline;
-    margin: 1% 0 0 5%;
+    margin: 1% 0 0 4%;
+
 
 }
 
@@ -39,6 +42,10 @@ h2 {
 #menu {
     font-size: 150%;
     line-height: 160px;
+    display: inline;
+
+
+
 
 }
 
@@ -51,7 +58,8 @@ h2 {
     float: right;
     list-style-type: none;
     margin-right: 40px;
-    
+
+
 }
 
 #menu a {
@@ -84,14 +92,14 @@ h2 {
 
     /* animation drift effect on landing page*/
 
-    animation-name: hero-drift;
+    /* animation-name: hero-drift;
     animation-duration: 5s;
-    animation-fill-mode: forwards;
+    animation-fill-mode: forwards; */
 }
 
 /* level of drift of hero image */
 
-@keyframes hero-drift {
+/* @keyframes hero-drift {
     from {
         transform: scale(1);
     }
@@ -99,7 +107,7 @@ h2 {
     to {
         transform: scale(1.1);
     }
-}
+} */
 
 /* into to club*/
 
