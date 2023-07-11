@@ -112,16 +112,21 @@ h2 {
 /* into to club*/
 
 #intro-to-club {
-    height: 400px;
-}
-
-#intro-content {
-    padding-top: 20px;
-    width: 45%;
-    margin: auto;
+    height: 300px;
+    padding-top: 30px;
+    width: 50%;
+    margin: 0 auto;
     text-align: center;
     font-size: 150%;
 }
+
+/* #intro-content {
+    padding-top: 20px;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 150%;
+} */
 
 /* footer */
 
