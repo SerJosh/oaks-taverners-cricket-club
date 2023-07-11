@@ -250,13 +250,13 @@ hr {
 }
 
 .contact-us-form {
-    margin: 150px 10% 0 0;
+    margin: 50px 10% 0 0;
     color: #fff;
     background-color:
         rgba(1, 50, 32, 0.6);
     max-width: 400px;
     position: absolute;
-    left: 10%;
+    left: 5%;
     padding: 30px;
 }
 
@@ -293,4 +293,9 @@ hr {
 .submit-button:hover {
     background-color: #fafafa;
     color: #f16c6b;
+}
+
+#message {
+ height: 100px;
+ 
 }
