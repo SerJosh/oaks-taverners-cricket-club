@@ -207,7 +207,7 @@ hr {
 }
 
 #about-us-img {
-    height: 900px;
+    height: 920px;
     width: 100%;
     border: 5px solid darkgreen;
 
@@ -216,7 +216,7 @@ hr {
 /*additional info */
 
 #add-info {
-    padding: 200px 0 10px 10px;
+    padding: 215px 0 10px 10px;
     width: 65%;
     margin: auto;
     text-align: center;
