@@ -203,8 +203,9 @@ hr {
 }
 
 #about-us-img {
-    height: 850px;
+    height: 900px;
     width: 100%;
+    border-color: darkgreen;
 }
 
 /*additional info */
