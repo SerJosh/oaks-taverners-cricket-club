@@ -317,3 +317,19 @@ hr {
     color: #fafafa;
     margin-bottom: 20px;
 }
+
+/* media queries */
+
+/* for large to medium size screens 1200px wide and below*/
+
+@media screen and (max-width: 1200px) {
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        /* margin-bottom: 40px; */
+        line-height: 20px;
+    }
+
+}
