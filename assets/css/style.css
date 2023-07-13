@@ -153,12 +153,14 @@ h3 {
 footer {
     height: 150px;
     background-color: darkgreen;
+
 }
 
 .social-links {
     text-align: center;
-    margin-right: 200px;
-
+    /* margin-right: 200px; */
+    margin: 0 auto;
+    clear: both
 }
 
 .social-links>li {
@@ -342,6 +344,24 @@ hr {
         line-height: 20px;
     }
 
+    /* footer {
+        height: 10em;
+
+    } */
+
+    /* .social-links {
+
+
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+        text-align: center;
+
+
+    } */
+
 }
 
 /* for medium to small size screens 700px wide and below*/
@@ -356,6 +376,8 @@ hr {
         margin: 0 auto;
     }
 }
+
+
 
 @media screen and (max-width: 580px) {
 
