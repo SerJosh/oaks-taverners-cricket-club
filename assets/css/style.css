@@ -33,17 +33,27 @@ h3 {
 #logo {
     float: left;
     font-size: 500%;
+    line-height: 80px;
+    margin-left: 20px;
 }
 
 
 
 #sigil {
     height: 150px;
-    width: 10%;
+    /* width: 10%; */
     display: inline;
     margin: 1% 0 0 4%;
 
 
+}
+
+#sigil-img {
+
+    height: 150px;
+    /* width: 10%; */
+    display: inline;
+    margin: 1% 0 0 4%;
 }
 
 /* Navigation links */
@@ -54,10 +64,10 @@ h3 {
     display: inline;
 }
 
-#logo {
+/* #logo {
     line-height: 80px;
     margin-left: 20px;
-}
+} */
 
 #menu li {
     float: right;
@@ -83,11 +93,11 @@ h3 {
 
 /* hero image */
 
-/* #hero-drift {
-    height: 800px;
+#hero-drift {
+    height: 500px;
     width: 100%;
     overflow: hidden;
-} */
+}
 
 #hero-image {
     height: 500px;
@@ -322,14 +332,62 @@ hr {
 
 /* for large to medium size screens 1200px wide and below*/
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1300px) {
 
     #menu {
         clear: left;
         float: left;
         margin-left: 30px;
-        /* margin-bottom: 40px; */
+        margin-bottom: 20px;
         line-height: 20px;
     }
+
+}
+
+/* for medium to small size screens 700px wide and below*/
+
+@media screen and (max-width: 689px) {
+
+    header {
+        height: 20em;
+    }
+
+    #head {
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 580px) {
+
+    header {
+        height: 2em;
+    }
+
+
+
+}
+
+@media screen and (max-width: 555px) {
+
+    #menu li {
+        margin-right: 15px;
+    }
+
+    #menu {
+        font-size: 150%;
+        line-height: 160px;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    #menu li {
+        margin-right: 10px;
+    }
+
+    #menu {
+        font-size: 110%;
+        line-height: 30px;
+    }
+
 
 }
