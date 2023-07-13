@@ -93,7 +93,7 @@ h3 {
 
 /* hero image */
 
-#hero-drift {
+#hero-section {
     height: 500px;
     width: 100%;
     overflow: hidden;
@@ -375,6 +375,12 @@ hr {
     #head {
         margin: 0 auto;
     }
+
+    #hero-image #hero-section {
+        height: 200px;
+
+
+    }
 }
 
 
@@ -384,6 +390,8 @@ hr {
     header {
         height: 2em;
     }
+
+
 
 
 
@@ -416,5 +424,56 @@ hr {
         line-height: 50px;
     }
 
+
+}
+
+@media screen and (max-width: 1089px) {
+
+    #hero-image #hero-section {
+        height: 400px;
+
+
+    }
+
+
+
+    #intro-to-club {
+        height: 300px;
+        padding-top: 0%;
+        width: 60%;
+        margin: 0 auto;
+        text-align: center;
+        font-size: 140%;
+    }
+
+    #intro-content {
+        margin-top: 1px;
+    }
+
+}
+
+@media screen and (max-width: 908px) {
+
+    #intro-to-club {
+        height: 300px;
+        padding-top: 0%;
+        width: 70%;
+        margin: 0 auto;
+        text-align: center;
+        font-size: 120%;
+    }
+
+}
+
+@media screen and (max-width: 565px) {
+
+    #intro-to-club {
+        height: 300px;
+        padding-top: 0%;
+        width: 95%;
+        margin: 0 auto;
+        text-align: center;
+        font-size: 105%;
+    }
 
 }
