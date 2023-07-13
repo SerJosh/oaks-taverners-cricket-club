@@ -375,7 +375,7 @@ hr {
 
     #menu {
         font-size: 150%;
-        line-height: 160px;
+        line-height: 60px;
     }
 }
 
@@ -387,6 +387,11 @@ hr {
     #menu {
         font-size: 110%;
         line-height: 30px;
+    }
+
+    #logo {
+        font-size: 200%;
+        line-height: 50px;
     }
 
 
