@@ -151,10 +151,19 @@ h3 {
 /* footer */
 
 footer {
-    height: 150px;
+
+
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     background-color: darkgreen;
+    color: white;
+    text-align: center;
 
 }
+
+
 
 .social-links {
     text-align: center;
@@ -190,7 +199,8 @@ hr {
 }
 
 #about-us {
-    height: 900px;
+    height: 1600px;
+
 
 }
 
@@ -228,11 +238,11 @@ hr {
 /*additional info */
 
 #add-info {
-    padding: 215px 0 10px 10px;
-    width: 65%;
-    margin: auto;
+    /* padding: 215px 0 10px 10px; */
+    width: 200%;
+    /* margin: auto;
     text-align: center;
-    font-size: 150%;
+    font-size: 150%; */
 }
 
 
@@ -354,6 +364,7 @@ hr {
 
 
 
+
     }
 
     #about-us-img {
@@ -370,12 +381,22 @@ hr {
 
     }
 
-    /* footer {
+    #add-info {
+        width: 100%;
+    }
+
+
+
+
+
+}
+
+/* footer {
         height: 10em;
 
     } */
 
-    /* .social-links {
+/* .social-links {
 
 
 
@@ -388,15 +409,13 @@ hr {
 
     } */
 
-}
+
 
 /* for medium to small size screens 700px wide and below*/
 
 @media screen and (max-width: 689px) {
 
-    header {
-        height: 20em;
-    }
+
 
     #head {
         margin: 0 auto;
@@ -407,6 +426,8 @@ hr {
 
 
     }
+
+
 }
 
 
@@ -497,6 +518,14 @@ hr {
         font-size: 80%;
     }
 
+    #photos {
+
+        column-count: 2;
+    }
+
+
+
+
 }
 
 @media screen and (max-width: 565px) {
@@ -517,5 +546,6 @@ hr {
     #about-us-img {
 
         width: 80%;
-
     }
+
+}
