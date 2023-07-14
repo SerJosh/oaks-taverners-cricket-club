@@ -344,6 +344,32 @@ hr {
         line-height: 20px;
     }
 
+    #right-about {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+
+
+
+    }
+
+    #about-us-img {
+        height: auto;
+        width: 65%;
+        border: 5px solid darkgreen;
+        margin: 0 auto;
+    }
+
+    #left-about {
+        padding-top: 20px;
+        width: 90%;
+        float: left;
+
+    }
+
     /* footer {
         height: 10em;
 
@@ -450,6 +476,10 @@ hr {
         margin-top: 1px;
     }
 
+    #left-about {
+        font-size: 100%;
+    }
+
 }
 
 @media screen and (max-width: 908px) {
@@ -461,6 +491,10 @@ hr {
         margin: 0 auto;
         text-align: center;
         font-size: 120%;
+    }
+
+    #left-about {
+        font-size: 80%;
     }
 
 }
@@ -476,4 +510,12 @@ hr {
         font-size: 105%;
     }
 
-}
+    #left-about {
+        font-size: 60%;
+    }
+
+    #about-us-img {
+
+        width: 80%;
+
+    }
