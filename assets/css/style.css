@@ -12,7 +12,7 @@ body {
     color: black;
 }
 
-/* Headings, sigil and Logo*/
+/* Headings */
 
 header {
     height: 170px;
@@ -30,6 +30,8 @@ h3 {
     color: white;
 }
 
+/* Logo and Sigil */
+
 #logo {
     float: left;
     font-size: 500%;
@@ -41,17 +43,12 @@ h3 {
 
 #sigil {
     height: 150px;
-    /* width: 10%; */
     display: inline;
     margin: 1% 0 0 4%;
-
-
 }
 
 #sigil-img {
-
     height: 150px;
-    /* width: 10%; */
     display: inline;
     margin: 1% 0 0 4%;
 }
@@ -64,23 +61,15 @@ h3 {
     display: inline;
 }
 
-/* #logo {
-    line-height: 80px;
-    margin-left: 20px;
-} */
-
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 40px;
-
-
 }
 
 #menu a {
     text-decoration: none;
     color: inherit;
-
 }
 
 #menu a:hover {
@@ -103,26 +92,7 @@ h3 {
     height: 500px;
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
-
-
-    /* animation drift effect on landing page*/
-
-    /* animation-name: hero-drift;
-    animation-duration: 5s;
-    animation-fill-mode: forwards; */
 }
-
-/* level of drift of hero image */
-
-/* @keyframes hero-drift {
-    from {
-        transform: scale(1);
-    }
-
-    to {
-        transform: scale(1.1);
-    }
-} */
 
 /* into to club*/
 
@@ -135,15 +105,8 @@ h3 {
     font-size: 150%;
 }
 
-/* #intro-content {
-    padding-top: 20px;
-    width: 50%;
-    margin: 0 auto;
-    text-align: center;
-    font-size: 150%;
-} */
-
 /*map*/
+
 #map {
     border: 1px darkgreen;
 }
@@ -151,8 +114,6 @@ h3 {
 /* footer */
 
 footer {
-
-
     position: static;
     left: 0;
     bottom: 0;
@@ -160,14 +121,10 @@ footer {
     background-color: darkgreen;
     color: white;
     text-align: center;
-
 }
-
-
 
 .social-links {
     text-align: center;
-    /* margin-right: 200px; */
     margin: 0 auto;
     clear: both
 }
@@ -183,14 +140,7 @@ footer {
     color: white;
 }
 
-#contact-info {
-    float: left;
-    color: #fff;
-    margin: 5px 0 0 5px;
-
-}
-
-/* about us main content */
+/* About Us main content */
 
 hr {
     border-top: 2px solid darkgreen;
@@ -200,15 +150,12 @@ hr {
 
 #about-us {
     height: 1600px;
-
-
 }
 
 #left-about {
     padding-top: 50px;
     width: 40%;
     float: left;
-
 }
 
 
@@ -235,16 +182,9 @@ hr {
 
 }
 
-/*additional info */
-
 #add-info {
-    /* padding: 215px 0 10px 10px; */
     width: 200%;
-    /* margin: auto;
-    text-align: center;
-    font-size: 150%; */
 }
-
 
 /* gallery */
 
@@ -320,11 +260,9 @@ hr {
 
 #message {
     height: 100px;
-
 }
 
 #address {
-
     margin: 20% 30px 0 0;
     color: #fff;
     background-color:
@@ -341,8 +279,6 @@ hr {
 }
 
 /* media queries */
-
-/* for large to medium size screens 1200px wide and below*/
 
 @media screen and (max-width: 1300px) {
 
@@ -361,10 +297,6 @@ hr {
         padding: 0;
         margin: 0;
         text-align: center;
-
-
-
-
     }
 
     #about-us-img {
@@ -378,44 +310,14 @@ hr {
         padding-top: 20px;
         width: 90%;
         float: left;
-
     }
 
     #add-info {
         width: 100%;
     }
-
-
-
-
-
 }
 
-/* footer {
-        height: 10em;
-
-    } */
-
-/* .social-links {
-
-
-
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-direction: row;
-        text-align: center;
-
-
-    } */
-
-
-
-/* for medium to small size screens 700px wide and below*/
-
 @media screen and (max-width: 689px) {
-
-
 
     #head {
         margin: 0 auto;
@@ -423,25 +325,14 @@ hr {
 
     #hero-image #hero-section {
         height: 200px;
-
-
     }
-
-
 }
-
-
 
 @media screen and (max-width: 580px) {
 
     header {
         height: 2em;
     }
-
-
-
-
-
 }
 
 @media screen and (max-width: 555px) {
@@ -457,6 +348,7 @@ hr {
 }
 
 @media screen and (max-width: 460px) {
+
     #menu li {
         margin-right: 10px;
     }
@@ -470,19 +362,13 @@ hr {
         font-size: 200%;
         line-height: 50px;
     }
-
-
 }
 
 @media screen and (max-width: 1089px) {
 
     #hero-image #hero-section {
         height: 400px;
-
-
     }
-
-
 
     #intro-to-club {
         height: 300px;
@@ -500,7 +386,6 @@ hr {
     #left-about {
         font-size: 100%;
     }
-
 }
 
 @media screen and (max-width: 908px) {
@@ -519,13 +404,8 @@ hr {
     }
 
     #photos {
-
         column-count: 2;
     }
-
-
-
-
 }
 
 @media screen and (max-width: 565px) {
@@ -544,13 +424,12 @@ hr {
     }
 
     #about-us-img {
-
         width: 80%;
     }
-
 }
 
 @media screen and (max-width: 802px) {
+
     #address {
         margin: 565px 30px 0 0;
         color: #fff;
@@ -564,8 +443,7 @@ hr {
     }
 
 
-}
-
-.contact-us-form {
-    margin: 1px 10% 0 0;
+    .contact-us-form {
+        margin: 1px 10% 0 0;
+    }
 }
