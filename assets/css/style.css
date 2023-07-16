@@ -317,53 +317,6 @@ hr {
     }
 }
 
-@media screen and (max-width: 689px) {
-
-    #head {
-        margin: 0 auto;
-    }
-
-    #hero-image #hero-section {
-        height: 200px;
-    }
-}
-
-@media screen and (max-width: 580px) {
-
-    header {
-        height: 2em;
-    }
-}
-
-@media screen and (max-width: 555px) {
-
-    #menu li {
-        margin-right: 15px;
-    }
-
-    #menu {
-        font-size: 150%;
-        line-height: 60px;
-    }
-}
-
-@media screen and (max-width: 460px) {
-
-    #menu li {
-        margin-right: 10px;
-    }
-
-    #menu {
-        font-size: 110%;
-        line-height: 30px;
-    }
-
-    #logo {
-        font-size: 200%;
-        line-height: 50px;
-    }
-}
-
 @media screen and (max-width: 1089px) {
 
     #hero-image #hero-section {
@@ -408,6 +361,44 @@ hr {
     }
 }
 
+@media screen and (max-width: 802px) {
+
+    #address {
+        margin: 565px 30px 0 0;
+        color: #fff;
+        background-color:
+            rgba(1, 50, 32, 0.6);
+        max-width: 400px;
+        left: 5%;
+        padding: 30px;
+        float: left;
+        position: absolute;
+    }
+
+
+    .contact-us-form {
+        margin: 1px 10% 0 0;
+    }
+}
+
+@media screen and (max-width: 689px) {
+
+    #head {
+        margin: 0 auto;
+    }
+
+    #hero-image #hero-section {
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 580px) {
+
+    header {
+        height: 2em;
+    }
+}
+
 @media screen and (max-width: 565px) {
 
     #intro-to-club {
@@ -428,22 +419,31 @@ hr {
     }
 }
 
-@media screen and (max-width: 802px) {
+@media screen and (max-width: 555px) {
 
-    #address {
-        margin: 565px 30px 0 0;
-        color: #fff;
-        background-color:
-            rgba(1, 50, 32, 0.6);
-        max-width: 400px;
-        left: 5%;
-        padding: 30px;
-        float: left;
-        position: absolute;
+    #menu li {
+        margin-right: 15px;
     }
 
+    #menu {
+        font-size: 150%;
+        line-height: 60px;
+    }
+}
 
-    .contact-us-form {
-        margin: 1px 10% 0 0;
+@media screen and (max-width: 460px) {
+
+    #menu li {
+        margin-right: 10px;
+    }
+
+    #menu {
+        font-size: 110%;
+        line-height: 30px;
+    }
+
+    #logo {
+        font-size: 200%;
+        line-height: 50px;
     }
 }
