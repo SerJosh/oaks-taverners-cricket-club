@@ -41,12 +41,7 @@ h3 {
 
 
 
-#sigil {
-    height: 150px;
-    display: inline;
-    margin: 1% 0 0 4%;
-}
-
+#sigil,
 #sigil-img {
     height: 150px;
     display: inline;
@@ -103,12 +98,6 @@ h3 {
     margin: 0 auto;
     text-align: center;
     font-size: 150%;
-}
-
-/*map*/
-
-#map {
-    border: 1px darkgreen;
 }
 
 /* footer */
@@ -268,7 +257,6 @@ hr {
     background-color:
         rgba(1, 50, 32, 0.6);
     max-width: 400px;
-    /* left: 5%; */
     padding: 30px;
     float: right;
 }
@@ -319,10 +307,6 @@ hr {
 
 @media screen and (max-width: 1089px) {
 
-    #hero-image #hero-section {
-        height: 400px;
-    }
-
     #intro-to-club {
         height: 300px;
         padding-top: 0%;
@@ -330,10 +314,6 @@ hr {
         margin: 0 auto;
         text-align: center;
         font-size: 140%;
-    }
-
-    #intro-content {
-        margin-top: 1px;
     }
 
     #left-about {
@@ -378,17 +358,6 @@ hr {
 
     .contact-us-form {
         margin: 1px 10% 0 0;
-    }
-}
-
-@media screen and (max-width: 689px) {
-
-    #head {
-        margin: 0 auto;
-    }
-
-    #hero-image #hero-section {
-        height: 200px;
     }
 }
 
