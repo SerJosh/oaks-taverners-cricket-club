@@ -89,9 +89,9 @@ h3 {
     background: url('../images/hero-image.jpg') no-repeat center center;
 }
 
-/* into to club*/
+/* Welcome to the Oaks Section*/
 
-#intro-to-club {
+#welcome-to-the-oaks {
     height: 300px;
     padding-top: 30px;
     width: 60%;
@@ -100,7 +100,7 @@ h3 {
     font-size: 150%;
 }
 
-/* footer */
+/* Footer */
 
 footer {
     position: static;
@@ -195,7 +195,7 @@ hr {
 
 #contact-us {
     clear: both;
-    background: url('../images/ball-g767b9fbcb_1280.jpg');
+    background: url('../images/cricket-ball.jpg');
     background-size: cover;
     background-position: center;
     height: 800px
@@ -307,7 +307,7 @@ hr {
 
 @media screen and (max-width: 1089px) {
 
-    #intro-to-club {
+    #welcome-to-the-oaks {
         height: 300px;
         padding-top: 0%;
         width: 60%;
@@ -323,7 +323,7 @@ hr {
 
 @media screen and (max-width: 908px) {
 
-    #intro-to-club {
+    #welcome-to-the-oaks {
         height: 300px;
         padding-top: 0%;
         width: 70%;
@@ -363,7 +363,7 @@ hr {
 
 @media screen and (max-width: 565px) {
 
-    #intro-to-club {
+    #welcome-to-the-oaks {
         height: 300px;
         padding-top: 0%;
         width: 95%;
