@@ -8,6 +8,13 @@ Visit the deployed website [here](https://serjosh.github.io/oaks-taverners-crick
 
 ## Table of Contents
 
+1. [User Experience (UX)](#user-experience-ux)
+   1. [Project Goals](#project-goals)
+   2. [User Stories](#user-stories)
+   3. [Typography](#typography)
+   4. [Color Scheme](#color-scheme)
+   5. [Wireframes](#wireframes)
+
 ---
 
 ## User Experience (UX)
@@ -43,3 +50,17 @@ Visit the deployed website [here](https://serjosh.github.io/oaks-taverners-crick
 I used two fonts in this website, which consists of Germania One for the headings and Urbanist for the paragraphs. San Serif was used as a fallback for both headings and paragraphs. I chose the combonations myself. Germania One for the medieval vibe I thought suited well with the term Oaks, Cricket and the Scenic Images I have used, and Urbanist for the clarity and simplicity to make the content readable and easy on the eye.
 
 ### Color Schemes
+
+![Color scheme image](documentation/color-scheme.png)
+
+The colors I have used are very simple. I have used Dark Green (#006400) to stand out from the other color of white, but mostly to represent the scenic grounds Ireland has to offer aswell as the color of greenery represented on cricket feilds. And the simple color of White (#FFFFFF) which is what cricketers clothes colors are, its simple enough, as the page naturally comes in white, and so do the clothes!
+
+### Wireframes
+
+[Balsamiq](https://balsamiq.com/) has been used to mockup the website and display the placement of the different elements whitin the pages. Obviously, there is now a difference from the mockup to the finished website as new inspirations occurred to me whilst working on the project, the most notable would be adding the Gallery as a seperate page and moving the map in the contact us page to the bottom.
+
+index.html ![index.html wireframe image](documentation/mockup-index.html.png)
+about-us.html ![about-us.html wireframe image](documentation/mockup-about-us.html.png)
+contact-us.html ![contact-us.html wireframe image](documentation/mockup-contact-us.html.png)
+
+## Features
