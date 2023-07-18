@@ -14,6 +14,12 @@ Visit the deployed website [here](https://serjosh.github.io/oaks-taverners-crick
    3. [Typography](#typography)
    4. [Color Scheme](#color-scheme)
    5. [Wireframes](#wireframes)
+2. [Features](#features)
+   1. [General](#general)
+   2. [Home](#home)
+   3. [About Us](#about-us)
+   4. [Gallery](#gallery)
+   5. [Contact Us](#contact-us)
 
 ---
 
@@ -72,59 +78,74 @@ contact-us.html ![contact-us.html wireframe image](documentation/mockup-contact-
 - Similar color scheme and design throughout all pages to keep consistency.
 
 * **Header**
+  ![Header image](documentation/header.png)
 
 The Header contains The Club Logo (name). The navagation bar, which facilitates navagation around the website and also has a hover effect to help know what page you are on. And the Sigil in the center, representing the Club as a whole, including the official cricket club. All is responsive.
 
 - **Footer**
+  ![Footer image](documentation/footer.png)
 
 The footer is simple enough across all pages, sporting the color of darkgreen, used across all pages with links to facebook and instagram. All is responsive.
 
-### Home (index.html)
+### Home
 
 - **Hero Image**
+  ![Hero Image](documentation/heroimage.png)
 
 The Hero Image is used to attract the potential member to the landscape of cricket, which can be very beautiful, with the image also hosting standbyers. The hero image also has an address block on the bottom right, to imediately state the location of the cricket club before the viewer can move on. All is responsive.
 
 - **Welcome to the Oaks Section**
+  ![Welcome to the Oaks Section](documentation/welcome.png)
 
 An introductory statement of the club, mostly of its welcome message and location. All is responsive.
 
 - **Map**
+  ![Map](documentation/map.png)
 
 A Google map, stating the location of the area and the streets and districts around it. Useful when wanting to know google map directions if in need to know travelling perameters. All is responsive.
 
 ### About Us
 
 - **About Us**
+  ![About Us Section](documentation/aboutus.png)
 
 A section of heading and text giving you the general information about the club, it also has a link to the official Oaks Cricket Club if diesired to go there. All is responsive.
 
 - **Cricketing Info**
+  ![Cricketing Info Section](documentation/cricinfo.png)
 
 This section provides you with all the information about the cricket, from when they play, how long they play and how much it is to play. It gets to the point in a brief summary which is an easy read which implements the simplicity of the website. All is responsive.
 
 - **How to Play**
+  ![How to Play Section](documentation/howtoplay.png)
 
 A simple explaination on how to play cricket. All is responsive.
 
 - **About Us image**
+  ![About Us image](documentation/aboutusimg.png)
 
 A large Cricket image, re-enforcing the dark green scheme implemented on the page. All is responsive.
 
 ### Gallery
+
+![Gallery image 1](documentation/gallery1.png)
+![Gallery image 2](documentation/gallery2.png)
 
 A vast array of images of the club, from its social aspects, its cricket and of course the Tavern which is all mixed together expressing a form of equal importance between cricket and the social aspects. All is responsive.
 
 ### Contact Us
 
 - **Contact Us Form**
+  ![Contact Us Form](documentation/contactus.png)
 
 A form that can be filled in about any queries you would like to know about the club, from signing up to just a question. It has a text option for your email, your name, your subject and your message, you can also request email updates in the checkbox. Light Green is used in the form when hovered over certain elements, to differenciate from the dakgreen transparent box. All is responsive.
 
 - **Address and Contact**
+  ![Address and Contact](documentation/addressblock.png)
 
 The address again but with a contact number if you would like to call, it is included at the end again to remind the viewer of its location. All is responsive.
 
 - **Map**
+  ![Map](documentation/map.png)
 
 The Map again, to remind the viewer of its location. All is responsive.
