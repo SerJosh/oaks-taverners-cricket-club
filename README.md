@@ -64,3 +64,67 @@ about-us.html ![about-us.html wireframe image](documentation/mockup-about-us.htm
 contact-us.html ![contact-us.html wireframe image](documentation/mockup-contact-us.html.png)
 
 ## Features
+
+### General
+
+- Responsive design across all device sizes (up to 350px).
+
+- Similar color scheme and design throughout all pages to keep consistency.
+
+* **Header**
+
+The Header contains The Club Logo (name). The navagation bar, which facilitates navagation around the website and also has a hover effect to help know what page you are on. And the Sigil in the center, representing the Club as a whole, including the official cricket club. All is responsive.
+
+- **Footer**
+
+The footer is simple enough across all pages, sporting the color of darkgreen, used across all pages with links to facebook and instagram. All is responsive.
+
+### Home (index.html)
+
+- **Hero Image**
+
+The Hero Image is used to attract the potential member to the landscape of cricket, which can be very beautiful, with the image also hosting standbyers. The hero image also has an address block on the bottom right, to imediately state the location of the cricket club before the viewer can move on. All is responsive.
+
+- **Welcome to the Oaks Section**
+
+An introductory statement of the club, mostly of its welcome message and location. All is responsive.
+
+- **Map**
+
+A Google map, stating the location of the area and the streets and districts around it. Useful when wanting to know google map directions if in need to know travelling perameters. All is responsive.
+
+### About Us
+
+- **About Us**
+
+A section of heading and text giving you the general information about the club, it also has a link to the official Oaks Cricket Club if diesired to go there. All is responsive.
+
+- **Cricketing Info**
+
+This section provides you with all the information about the cricket, from when they play, how long they play and how much it is to play. It gets to the point in a brief summary which is an easy read which implements the simplicity of the website. All is responsive.
+
+- **How to Play**
+
+A simple explaination on how to play cricket. All is responsive.
+
+- **About Us image**
+
+A large Cricket image, re-enforcing the dark green scheme implemented on the page. All is responsive.
+
+### Gallery
+
+A vast array of images of the club, from its social aspects, its cricket and of course the Tavern which is all mixed together expressing a form of equal importance between cricket and the social aspects. All is responsive.
+
+### Contact Us
+
+- **Contact Us Form**
+
+A form that can be filled in about any queries you would like to know about the club, from signing up to just a question. It has a text option for your email, your name, your subject and your message, you can also request email updates in the checkbox. Light Green is used in the form when hovered over certain elements, to differenciate from the dakgreen transparent box. All is responsive.
+
+- **Address and Contact**
+
+The address again but with a contact number if you would like to call, it is included at the end again to remind the viewer of its location. All is responsive.
+
+- **Map**
+
+The Map again, to remind the viewer of its location. All is responsive.
