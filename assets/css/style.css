@@ -321,7 +321,7 @@ hr {
     }
 
     #about-us-img {
-        height: 500px;
+        height: auto;
         width: 65%;
         border: 5px solid darkgreen;
         margin: 0 auto;
@@ -336,6 +336,10 @@ hr {
 
     #how-to-play {
         width: 100%;
+    }
+
+    #about-us {
+        height: 380vh;
     }
 }
 
@@ -352,6 +356,10 @@ hr {
 
     #left-about {
         font-size: 100%;
+    }
+
+    #about-us {
+        height: 360vh;
     }
 }
 
@@ -373,6 +381,10 @@ hr {
     #photos {
         column-count: 2;
     }
+
+    #about-us {
+        height: 300vh;
+    }
 }
 
 @media screen and (max-width: 802px) {
@@ -393,6 +405,17 @@ hr {
     .contact-us-form {
         margin: 1px 10% 0 0;
     }
+
+    #about-us {
+        height: 280vh;
+    }
+}
+
+@media screen and (max-width: 689px) {
+
+    #about-us {
+        height: 310vh;
+    }
 }
 
 @media screen and (max-width: 565px) {
@@ -412,6 +435,10 @@ hr {
 
     #about-us-img {
         width: 80%;
+    }
+
+    #about-us {
+        height: 290vh;
     }
 }
 
@@ -442,4 +469,17 @@ hr {
         font-size: 200%;
         line-height: 50px;
     }
+
+    #about-us {
+        height: 240vh;
+    }
+
+}
+
+@media screen and (max-width: 377px) {
+
+    #about-us {
+        height: 270vh;
+    }
+
 }
