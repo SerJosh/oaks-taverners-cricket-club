@@ -20,6 +20,9 @@ Visit the deployed website [here](https://serjosh.github.io/oaks-taverners-crick
    3. [About Us](#about-us)
    4. [Gallery](#gallery)
    5. [Contact Us](#contact-us)
+3. [Technologies Used](#technologies-used)
+   1. [Languages Used](#languages-used)
+   2. [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
 
 ---
 
@@ -136,6 +139,7 @@ A vast array of images of the club, from its social aspects, its cricket and of 
 ### Contact Us
 
 - **Contact Us Form**
+
   ![Contact Us Form](documentation/contactus.png)
 
 A form that can be filled in about any queries you would like to know about the club, from signing up to just a question. It has a text option for your email, your name, your subject and your message, you can also request email updates in the checkbox. Light Green is used in the form when hovered over certain elements, to differenciate from the dakgreen transparent box. All is responsive.
@@ -150,3 +154,52 @@ The address again but with a contact number if you would like to call, it is inc
   ![Map](documentation/map.png)
 
 The Map again, to remind the viewer of its location. All is responsive.
+
+## Technologies Used
+
+### Languages Used
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+### Frameworks, Libraries and Programs Used
+
+- [Google Fonts](https://fonts.google.com/)
+
+  Google Fonts was used to import the fonts Germania One, Urbanist and San Serif into the style.css file. These fonts were used throughout the site.
+
+- [Font Awesome](https://fontawesome.com/)
+
+  Font Awesome was used in the footer, location on the first page (Home) and a phone on the contact number on the last page(Contact Us) visual experience for UX purposes.
+
+* [Pixabay](https://pixabay.com/)
+
+  Pixabay was used to find images for my website, mostly to do with cricket finding various images which suits the websites needs.
+
+* [PicJumbo](https://picjumbo.com/)
+
+  PicJumbo was also used to collect images of a cricketing nature whixh would benefit the website.
+
+* [Balsamiq](https://balsamiq.com/)
+
+  Balsamiq was used to create the wireframes during the planning phase of the project.
+
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+
+  Chrome DevTools was used during development process to test responsiveness.
+
+* [Codeanywhere](https://app.codeanywhere.com/)
+
+  Codeanywhere was used for writing code, committing, and then pushing to GitHub.
+
+* [GitHub](https://github.com/)
+
+  GitHub was used to store the project after pushing.
+
+* [W3C Markup Validator](https://validator.w3.org/)
+
+  W3C Markup Validator was used to validate the HTML code.
+
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+  W3C CSS Validator was used to validate the CSS code.
