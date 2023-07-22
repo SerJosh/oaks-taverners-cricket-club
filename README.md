@@ -25,6 +25,13 @@ Visit the deployed website [here](https://serjosh.github.io/oaks-taverners-crick
 3. [Technologies Used](#technologies-used)
    1. [Languages Used](#languages-used)
    2. [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
+4. [Testing](#testing)
+   1. [Testing User Stories](#testing-user-stories)
+   2. [Code Validation](#code-validation)
+   3. [Accessibility](#accessibility)
+   4. [Tools Testing](#tools-testing)
+   5. [Manual Testing](#manual-testing)
+5. [Finished Product](#finished-product)
 
 ---
 
@@ -300,42 +307,105 @@ No errors were found in the W3C CSS Validator test.
 
 * Browser Compatibility
 
-  - The website has been tested on the following browsers:
+The website has been tested on the following browsers:
 
-    - **Goolgle Chrome**
+- **Goolgle Chrome**
 
-    No appearance, responsiveness nor functionality issues.
+  No pearance, responsiveness nor functionality issues.
 
-    - **Mozilla Firefox**
+- **Mozilla Firefox**
 
-    No appearance, responsiveness nor functionality issues.
+  No appeance, responsiveness nor functionality issues.
 
 * Device compatibility
 
 The website has been tested on multiple devices, including:
 
-- **MacBook Pro 15"**
+- **10" Notebook**
 
-       No appearance, responsiveness nor functionality issues.
+No appearance, responsiveness nor functionality issues.
 
-- **Dell Latitude 5300**
+- **Apple iPad Pro**
 
-       No appearance, responsiveness nor functionality issues.
+No appearance, responsiveness nor functionality issues.
 
-- **iPad Pro 12.9"**
+- **Nexus 9**
 
-       No appearance, responsiveness nor functionality issues.
+No appearance, responsiveness nor functionality issues.
 
-- **iPad Pro 10.5"**
+- **Apple iPad Mini**
 
-       No appearance, responsiveness nor functionality issues.
+No appearance, responsiveness nor functionality issues.
 
-- **iPhone XR**
+- **Apple iPhone 6s Plus/ 7 Plus**
 
-       No appearance, responsiveness nor functionality issues.
+No appearance, responsiveness nor functionality issues.
 
-- **iPhone 7**
+- **Samsung Galaxy S5/S6/S7**
 
-       No appearance, responsiveness nor functionality issues.
+No appearance, responsiveness nor functionality issues.
 
-* Common Elements Testing
+- Common Elements Testing
+
+- All Pages
+
+  - **Navigation Bar**
+
+          - Hovering on the different navigation bar's links will trigger hover effect, underlining the link for the viewer in dark green.
+
+          - Clicking on the navigation bar's links will bring the customer to the specified page.
+
+  - **Footer**
+
+          - Clicking on the social media links will open that specific website on a new tab.
+
+  - **Map**
+
+          - Not necessarily across all pages but two of them (Home page and Contact Us page)
+
+          - clicking and holding on the map, you will be able to move around the map to see other locations around it.
+          - Press the plus/minus buttons to scroll and see more geography of the map and vice verse.
+
+          - You can also click on other locations to bring up basic details at the top right of the map.
+
+- Contact Us Page
+
+  - When filling out the contact us form, all fields are mandatory when clicking on the submit button.
+
+  - A text input field for your name (required)
+
+  - A text input field for your email (required)
+
+  - A text input field for your subject (required)
+
+  - A text input field for your message (required). Text field has been enlarged for potentially more text.
+
+  - A check box for email updates, when clicked a tick will appear (not required)
+
+  - When hovering over any of the text input blocks, the color will change to light green.
+
+  - When hovering over the submit button, the color will change to white, with the writing to dark green.
+
+  - When clicking on the submit button after filling in all the fields, the information will be sent to oakstavern@gmail.com, which does not exist therefor sending you to an error page.
+
+## Finished Product
+
+## Deployment
+
+- This website was developed using [Codeanywhere](https://app.codeanywhere.com/), which was then committed and pushed to GitHub using the codeanywhere terminal.
+
+### GitHub Pages
+
+- Here are the steps to deploy this website to GitHub Pages from its GitHub repository:
+
+  1. Log in to GitHub and locate the [GitHub Repository](https://github.com/).
+
+  2. At the top of the Repository, locate the Settings button on the menu.
+
+  3. Scroll down the Settings page until you locate the Pages section on the left of the screen.
+
+  4. Under Branch, click on select branch and from the dropdown list choose main.
+
+  5. The page will refresh automatically and generate a link to the website.
+
+  ## Credits
