@@ -203,3 +203,35 @@ The Map again, to remind the viewer of its location. All is responsive.
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
   W3C CSS Validator was used to validate the CSS code.
+
+## Testing
+
+### Testing User Stories
+
+- As a Viewer, I want to be able to navigate the website intuitively and learn more about the club.
+
+  - The website offers an intuitive structure for the viewers to navigate and find the information they are looking for.
+
+  - The navigation bar is clearly presented in all pages for the viewer to find with ease and it is easily navigable.
+
+* As a viewer, I want to be able to see the club in action, see a bit of a human element.
+
+  - The Gallery page presents multiple images containing the club playing cricket and socialising, which is all in the Gallery.
+
+  - There are a few background images containing cricket elements, with the Home page containing a landscape image of the Clubs ground.
+
+* As a viewer, I want to easily find the contact information for the club.
+
+  - The Contact Us page contains a clear contact section, with an option to message the club about any queries concerning the club as well as an address and contact number, with the address also viewed on the Home page.
+
+* As a viewer, I want to find social media links to the club.
+
+  - The footer provides link to the club's social media channels on all pages.
+
+* As a viewer, I want to easily find the Club's location.
+
+  - On the Home page as well as the Contact Us page you will be able to find a map showing the club's geographical location.
+
+* As a viewer, I want to know a little more about the cricket and also if new to the game, how to play
+
+  - On the About Us page, you will find all the cricketing details on how the club plays, also a brief and simple explaination on how the game is played.
