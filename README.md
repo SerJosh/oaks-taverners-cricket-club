@@ -235,3 +235,39 @@ The Map again, to remind the viewer of its location. All is responsive.
 * As a viewer, I want to know a little more about the cricket and also if new to the game, how to play
 
   - On the About Us page, you will find all the cricketing details on how the club plays, also a brief and simple explaination on how the game is played.
+
+### Code Validation
+
+The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) services were used to validate all pages of the project in order to ensure there were no syntax errors.
+
+#### W3C Markup Validator
+
+![W3C Markup Validator](documentation/html-validator1.png)
+![W3C Markup Validator](documentation/html-validator2.png)
+![W3C Markup Validator](documentation/html-validator3.png)
+![W3C Markup Validator](documentation/html-validator4.png)
+![W3C Markup Validator](documentation/html-validator5.png)
+
+There were originally a few errors in my W3C Markup Validator test, this is how I fixed them.
+
+- I forgot to add an l to the ul element for the navagation code, for all pages, therefore I added the l to the u making it ul, I then wrote a CSS for the ul code to make sure the navagation menu stays in its place. This fixed the first 4 errors.
+
+- The next few errors had to do with the map which I developed using Google Maps iframe Generator, I removed the width, frameborder, scrolling, margin-height and margin-width from the html code as it is obsolete. Then I added CSS code for the Map to do what I needed it to do. I also removed the a href text from the map code as it was obsolete too.
+
+- There was also a rouge a implemented in the social links by accident, so I removed it.
+
+![W3C Markup Validator](documentation/final-html-validator.png)
+
+So I am left with 2 warnings where its warning me that the sections lack headings, however the sections do not need the use of headings in this case.
+
+#### W3C CSS Validator
+
+![W3C CSS Validator](documentation/css-validator.png)
+
+No errors were found in the W3C CSS Validator test.
+
+### Accessibility
+
+- Used Lighthouse in Chrome DevTools to confirm that the colors and fonts being used in throughout the website are easy to read and accessible.
+
+- Lighthouse reports
