@@ -339,7 +339,7 @@ hr {
     }
 
     #about-us {
-        height: 380vh;
+        height: 2300px;
     }
 }
 
@@ -359,7 +359,7 @@ hr {
     }
 
     #about-us {
-        height: 360vh;
+        height: 2200px;
     }
 }
 
@@ -383,7 +383,7 @@ hr {
     }
 
     #about-us {
-        height: 300vh;
+        height: 1800px;
     }
 }
 
@@ -407,14 +407,14 @@ hr {
     }
 
     #about-us {
-        height: 280vh;
+        height: 1800px;
     }
 }
 
 @media screen and (max-width: 689px) {
 
     #about-us {
-        height: 310vh;
+        height: 1900px;
     }
 }
 
