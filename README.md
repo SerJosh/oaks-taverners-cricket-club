@@ -32,6 +32,9 @@ Visit the deployed website [here](https://serjosh.github.io/oaks-taverners-crick
    4. [Tools Testing](#tools-testing)
    5. [Manual Testing](#manual-testing)
 5. [Finished Product](#finished-product)
+6. [Deployment](#deployment)
+   1. [GitHub Pages](#github-pages)
+7. [Credits](#credits)
 
 ---
 
@@ -247,11 +250,11 @@ The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](ht
 
 #### W3C Markup Validator
 
-![W3C Markup Validator](documentation/html-validator1.png)
-![W3C Markup Validator](documentation/html-validator2.png)
-![W3C Markup Validator](documentation/html-validator3.png)
-![W3C Markup Validator](documentation/html-validator4.png)
-![W3C Markup Validator](documentation/html-validator5.png)
+![W3C Markup Validator](documentation/htmlvalidator1.png)
+![W3C Markup Validator](documentation/htmlvalidator2.png)
+![W3C Markup Validator](documentation/htmlvalidator3.png)
+![W3C Markup Validator](documentation/htmlvalidator4.png)
+![W3C Markup Validator](documentation/htmlvalidator5.png)
 
 There were originally a few errors in my W3C Markup Validator test, this is how I fixed them.
 
@@ -261,13 +264,13 @@ There were originally a few errors in my W3C Markup Validator test, this is how 
 
 - There was also a rouge a implemented in the social links by accident, so I removed it.
 
-![W3C Markup Validator](documentation/final-html-validator.png)
+![W3C Markup Validator](documentation/htmlvalidator6.png)
 
 So I am left with 2 warnings where its warning me that the sections lack headings, however the sections do not need the use of headings in this case.
 
 #### W3C CSS Validator
 
-![W3C CSS Validator](documentation/css-validator.png)
+![W3C CSS Validator](documentation/cssvalidator1.png)
 
 No errors were found in the W3C CSS Validator test.
 
@@ -351,22 +354,26 @@ No appearance, responsiveness nor functionality issues.
 
   - **Navigation Bar**
 
-          - Hovering on the different navigation bar's links will trigger hover effect, underlining the link for the viewer in dark green.
+    - Hovering on the different navigation bar's links will trigger hover effect, underlining the link for the viewer in dark green.
 
-          - Clicking on the navigation bar's links will bring the customer to the specified page.
+    - Clicking on the navigation bar's links will bring the customer to the specified page.
 
   - **Footer**
 
-          - Clicking on the social media links will open that specific website on a new tab.
+    - Clicking on the social media links will open that specific website on a new tab.
 
   - **Map**
 
-          - Not necessarily across all pages but two of them (Home page and Contact Us page)
+    - Not necessarily across all pages but two of them (Home page and Contact Us page)
 
-          - clicking and holding on the map, you will be able to move around the map to see other locations around it.
-          - Press the plus/minus buttons to scroll and see more geography of the map and vice verse.
+    - clicking and holding on the map, you will be able to move around the map to see other locations around it.
+    - Press the plus/minus buttons to scroll and see more geography of the map and vice verse.
 
-          - You can also click on other locations to bring up basic details at the top right of the map.
+    - You can also click on other locations to bring up basic details at the top right of the map.
+
+- About Us Page
+
+  - There is a click here option on the About us text section which will lead you to the oakstavern@gmail.com which does not exist so an error page will show up on an new page.
 
 - Contact Us Page
 
@@ -389,6 +396,22 @@ No appearance, responsiveness nor functionality issues.
   - When clicking on the submit button after filling in all the fields, the information will be sent to oakstavern@gmail.com, which does not exist therefor sending you to an error page.
 
 ## Finished Product
+
+- **Home**
+
+![Home full page](documentation/home-full.png)
+
+- **About Us**
+
+![About Us full page](documentation/aboutus-full.png)
+
+- **Gallery**
+
+![Gallery full page](documentation/gallery-full.png)
+
+- **Contact Us**
+
+![Contact Us full page](documentation/contactus-full.png)
 
 ## Deployment
 
