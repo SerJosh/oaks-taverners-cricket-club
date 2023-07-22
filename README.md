@@ -1,5 +1,7 @@
 # Oaks Taverners Cricket Club
 
+![Oaks Taverners Cricket Club across devices](documentation/responsive.png)
+
 Oaks Taverners Cricket Club is a fictitious social cricket club based in the outskirts of Dublin in Knocklyon, which is also an extension to an official cricket club which is called Oaks Taverners Cricket Club. The purpose of the club is to play the game of cricket at a non cometitive way in a much shorter time frame than regular cricket matches which invites anyone from experienced veterans to first time players alike to join in the fun of playing cricket. Taverners Cricket in real life is an existing non competitive league in Dublin and beyond.
 
 The purpose of this website is to introduce and promote the Taverners cricket club to anyone interested in joining. It gives all the information anyone needs to know about the club and how it (and Taverners Cricket) functions. The main purpose is to ease people into the club without blasting them with too much information but expressing the simplicity and fun of it all. Once a member desides to join, they will obviously be invited to a whatsapp group and email feed which will give them all the precise information needed on playing and other events.
@@ -293,3 +295,47 @@ No errors were found in the W3C CSS Validator test.
   - [Am I Responsive?](http://ami.responsivedesign.is/#) was used to check responsiveness of the site pages across different devices.
 
   - [Responsive Design Checker](https://www.responsivedesignchecker.com/) was used to check responsiveness of the site pages on different screen sizes.
+
+  ### Manual Testing
+
+* Browser Compatibility
+
+  - The website has been tested on the following browsers:
+
+    - **Goolgle Chrome**
+
+    No appearance, responsiveness nor functionality issues.
+
+    - **Mozilla Firefox**
+
+    No appearance, responsiveness nor functionality issues.
+
+* Device compatibility
+
+The website has been tested on multiple devices, including:
+
+- **MacBook Pro 15"**
+
+       No appearance, responsiveness nor functionality issues.
+
+- **Dell Latitude 5300**
+
+       No appearance, responsiveness nor functionality issues.
+
+- **iPad Pro 12.9"**
+
+       No appearance, responsiveness nor functionality issues.
+
+- **iPad Pro 10.5"**
+
+       No appearance, responsiveness nor functionality issues.
+
+- **iPhone XR**
+
+       No appearance, responsiveness nor functionality issues.
+
+- **iPhone 7**
+
+       No appearance, responsiveness nor functionality issues.
+
+* Common Elements Testing
