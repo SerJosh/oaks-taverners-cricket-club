@@ -267,3 +267,29 @@ No errors were found in the W3C CSS Validator test.
 - Used Lighthouse in Chrome DevTools to confirm that the colors and fonts being used in throughout the website are easy to read and accessible.
 
 - Lighthouse reports
+
+  - **Home Page**
+
+  ![Lighthouse report for Home page](documentation/home-lighthouse.png)
+
+  - **About Us Page**
+
+  ![Lighthouse report for About Us page](documentation/about-us-lighthouse.png)
+
+  - **Gallery Page**
+
+  ![Lighthouse report for Gallery page](documentation/gallery-lighthouse.png)
+
+  - **Contact Us Page**
+
+  ![Lighthouse report for Contact Us page](documentation/contact-us-lighthouse.png)
+
+  ### Tools Testing
+
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+
+  - Chrome DevTools was used during the development process to test, explore and modify CSS styles used in the project, and also to test responsiveness.
+
+  - [Am I Responsive?](http://ami.responsivedesign.is/#) was used to check responsiveness of the site pages across different devices.
+
+  - [Responsive Design Checker](https://www.responsivedesignchecker.com/) was used to check responsiveness of the site pages on different screen sizes.
