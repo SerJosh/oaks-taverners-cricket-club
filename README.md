@@ -172,35 +172,31 @@ The Map again, to remind the viewer of its location. All is responsive.
 
   Font Awesome was used in the footer, location on the first page (Home) and a phone on the contact number on the last page(Contact Us) visual experience for UX purposes.
 
-* [Pixabay](https://pixabay.com/)
-
-  Pixabay was used to find images for my website, mostly to do with cricket finding various images which suits the websites needs.
-
-* [PicJumbo](https://picjumbo.com/)
-
-  PicJumbo was also used to collect images of a cricketing nature whixh would benefit the website.
-
 * [Balsamiq](https://balsamiq.com/)
 
   Balsamiq was used to create the wireframes during the planning phase of the project.
 
-* [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+* [TinyPNG](https://tinypng.com/)
+
+TinyPNG was used to reduce the file size of the images for the website.
+
+- [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
   Chrome DevTools was used during development process to test responsiveness.
 
-* [Codeanywhere](https://app.codeanywhere.com/)
+- [Codeanywhere](https://app.codeanywhere.com/)
 
   Codeanywhere was used for writing code, committing, and then pushing to GitHub.
 
-* [GitHub](https://github.com/)
+- [GitHub](https://github.com/)
 
   GitHub was used to store the project after pushing.
 
-* [W3C Markup Validator](https://validator.w3.org/)
+- [W3C Markup Validator](https://validator.w3.org/)
 
   W3C Markup Validator was used to validate the HTML code.
 
-* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
   W3C CSS Validator was used to validate the CSS code.
 
