@@ -471,7 +471,7 @@ hr {
     }
 
     #about-us {
-        height: 240vh;
+        height: 1550px;
     }
 
 }
@@ -479,7 +479,7 @@ hr {
 @media screen and (max-width: 377px) {
 
     #about-us {
-        height: 270vh;
+        height: 1700px;
     }
 
 }
