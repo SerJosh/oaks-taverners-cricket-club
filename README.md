@@ -35,6 +35,10 @@ Visit the deployed website [here](https://serjosh.github.io/oaks-taverners-crick
 6. [Deployment](#deployment)
    1. [GitHub Pages](#github-pages)
 7. [Credits](#credits)
+   1. [Content](#content)
+   2. [Media](#media)
+   3. [Code](#code)
+8. [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -83,6 +87,8 @@ The colors I have used are very simple. I have used Dark Green (#006400) to stan
 index.html ![index.html wireframe image](documentation/mockup-index.html.png)
 about-us.html ![about-us.html wireframe image](documentation/mockup-about-us.html.png)
 contact-us.html ![contact-us.html wireframe image](documentation/mockup-contact-us.html.png)
+
+[Back to top ⇧](#oaks-taverners-cricket-club)
 
 ## Features
 
@@ -167,6 +173,8 @@ The address again but with a contact number if you would like to call, it is inc
 
 The Map again, to remind the viewer of its location. All is responsive.
 
+[Back to top ⇧](#oaks-taverners-cricket-club)
+
 ## Technologies Used
 
 ### Languages Used
@@ -211,6 +219,8 @@ TinyPNG was used to reduce the file size of the images for the website.
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
   W3C CSS Validator was used to validate the CSS code.
+
+[Back to top ⇧](#oaks-taverners-cricket-club)
 
 ## Testing
 
@@ -395,6 +405,8 @@ No appearance, responsiveness nor functionality issues.
 
   - When clicking on the submit button after filling in all the fields, the information will be sent to oakstavern@gmail.com, which does not exist therefor sending you to an error page.
 
+  [Back to top ⇧](#oaks-taverners-cricket-club)
+
 ## Finished Product
 
 - **Home**
@@ -412,6 +424,8 @@ No appearance, responsiveness nor functionality issues.
 - **Contact Us**
 
 ![Contact Us full page](documentation/contactus-full.png)
+
+[Back to top ⇧](#oaks-taverners-cricket-club)
 
 ## Deployment
 
@@ -431,4 +445,54 @@ No appearance, responsiveness nor functionality issues.
 
   5. The page will refresh automatically and generate a link to the website.
 
-  ## Credits
+  [Back to top ⇧](#oaks-taverners-cricket-club)
+
+## Credits
+
+### Content
+
+Majority of the content was written by the developer, with some content inspired and used from [Wulnuts Taverners Cricket Club](http://walnuts.walnuttaverners.com/)
+
+### Media
+
+- [Pixabay](https://pixabay.com/)
+
+Majority of the gallery images were uploaded from Pixabay for use
+
+- [Picjumbo](https://picjumbo.com/)
+
+Some content in the gallery and the other images in the About Us page and Contact Us page were uploaded from Picjumbo.
+
+- [Google](https://www.google.com/)
+
+Google was used to find the Hero Image.
+
+### Code
+
+- [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/) were used regularly for ideas and sometimes guidance on how to go about certain codes.
+
+- [Google Maps iframe Generator](https://www.maps.ie/create-google-map/) was used to generate the ficticious map used in the website. There were errors from the HTML validator concerning the map however, so i removed them.
+
+- The **Love Running** walkthrough project by Code Institute was used as guidance on how to go about the beginning stages of starting the website, the clarity of the website was inspired for this website, the navagation code was used and then altered to fit the context of the website, the gallery code was used as it was also inspired by [Wulnuts Taverners Cricket Club](http://walnuts.walnuttaverners.com/) (images were different however) and the Love Running Form Challenge code was used and then altered for the Contact Us form section.
+
+- The **Coding For Kids** example project shown by Code Insitiute, for its simplicity inspiration.
+
+- And of course [Crunchy Roll](https://www.crunchyroll.com/) for showing me my first idea was was too big for a project.
+
+- [pura-vida-spa](https://josswe26-pura-vida-spa-2qhc3x8i3s.us2.codeanyapp.com/) for the structure and guidance of how to go about the README.md file.
+
+[Back to top ⇧](#oaks-taverners-cricket-club)
+
+## Acknowledgements
+
+- My wife and son for their love and motivation.
+
+- My dad, for his corporate professional opinion.
+
+- My cricket team [Wulnuts Taverners Cricket Club](http://walnuts.walnuttaverners.com/) which was the original inspiration of this project.
+
+- My mentor, Marcel, for his guidance and aid throughout this project.
+
+- And the Slack Community, for their useful tips and motivation throughout my studies of coding in general.
+
+[Back to top ⇧](#oaks-taverners-cricket-club)
