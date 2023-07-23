@@ -286,7 +286,7 @@ No errors were found in the W3C CSS Validator test.
 
 ### Accessibility
 
-- I Used Lighthouse in Chrome DevTools to confirm that the content being used throughout the website are easy to read and accessible.
+I Used Lighthouse in Chrome DevTools to confirm that the content being used throughout the website are easy to read and accessible.
 
 - Lighthouse reports
 
@@ -318,7 +318,7 @@ No errors were found in the W3C CSS Validator test.
 
   ### Manual Testing
 
-* Browser Compatibility
+#### Browser Compatibility
 
 The website has been tested on the following browsers:
 
@@ -330,7 +330,11 @@ The website has been tested on the following browsers:
 
   No appeance, responsiveness nor functionality issues.
 
-* Device compatibility
+- **Microsoft Edge**
+
+  No appeance, responsiveness nor functionality issues.
+
+#### Device compatibility
 
 The website has been tested on multiple devices, including:
 
@@ -358,28 +362,28 @@ No appearance, responsiveness nor functionality issues.
 
 No appearance, responsiveness nor functionality issues.
 
-- Common Elements Testing
+#### Common Elements Testing
 
-  - All Pages
+- All Pages
 
-    **Navigation Bar**
+  **Navigation Bar**
 
-    - Hovering on the different navigation bar's links will trigger hover effect, underlining the link for the viewer in dark green.
+  - Hovering on the different navigation bar's links will trigger hover effect, underlining the link for the viewer in dark green.
 
-    - Clicking on the navigation bar's links will bring the viewer to the specified page.
+  - Clicking on the navigation bar's links will bring the viewer to the specified page.
 
-    **Footer**
+  **Footer**
 
-    - Clicking on the social media links will open that specific website on a new tab.
+  - Clicking on the social media links will open that specific website on a new tab.
 
-    **Map**
+  **Map**
 
-    - Not necessarily across all pages but two of them (Home page and Contact Us page)
+  - Not necessarily across all pages but two of them (Home page and Contact Us page)
 
-    - clicking and holding on the map, you will be able to move around the map to see other locations around it.
-    - Press the plus/minus buttons to scroll and see more geography of the map and vice verse.
+  - clicking and holding on the map, you will be able to move around the map to see other locations around it.
+  - Press the plus/minus buttons to scroll and see more geography of the map and vice verse.
 
-    - You can also click on other locations to bring up basic details at the top left of the map.
+  - You can also click on other locations to bring up basic details at the top left of the map.
 
 - About Us Page
 
