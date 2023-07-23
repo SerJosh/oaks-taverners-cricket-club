@@ -2,7 +2,7 @@
 
 ![Oaks Taverners Cricket Club across devices](documentation/responsive.png)
 
-Oaks Taverners Cricket Club is a fictitious social cricket club based in the outskirts of Dublin in Knocklyon, which is also an extension to an official cricket club which is called Oaks Taverners Cricket Club. The purpose of the club is to play the game of cricket at a non cometitive way in a much shorter time frame than regular cricket matches which invites anyone from experienced veterans to first time players alike to join in the fun of playing cricket. Taverners Cricket in real life is an existing non competitive league in Dublin and beyond.
+Oaks Taverners Cricket Club is a fictitious social cricket club based in the outskirts of Dublin in Knocklyon, which is also an extension to an official cricket club which is called Oaks Taverners Cricket Club. The purpose of the club is to play the game of cricket in a non cometitive way in a much shorter time frame than regular cricket matches, which invites anyone from experienced veterans to first time players alike to join in the fun of playing cricket. Taverners Cricket in real life is an existing non competitive league in Dublin and beyond.
 
 The purpose of this website is to introduce and promote the Taverners cricket club to anyone interested in joining. It gives all the information anyone needs to know about the club and how it (and Taverners Cricket) functions. The main purpose is to ease people into the club without blasting them with too much information but expressing the simplicity and fun of it all. Once a member desides to join, they will obviously be invited to a whatsapp group and email feed which will give them all the precise information needed on playing and other events.
 
@@ -54,13 +54,13 @@ Visit the deployed website [here](https://serjosh.github.io/oaks-taverners-crick
 
 - Present a display of Images of a cricketing nature as well as the fun and social aspects of the club.
 
-- Offer an option to contact the club with any messages or questions potential members would like to say.
+- Offers an option to contact the club with any messages or questions potential members would like to say.
 
 ### User Stories
 
 - As a potential member I would like the website to be informative enough for me to be interested.
 
-* As a potential member I would like to not be overloaded with information when looking up the dtails about the club
+* As a potential member I would like to not be overloaded with too much information when looking up the details about the club
 
 * As a potential member I would like to see the play in action and see its social interation without being intimidated by any competitivity.
 
@@ -78,7 +78,7 @@ I used two fonts in this website, which consists of Germania One for the heading
 
 ![Color scheme image](documentation/color-scheme.png)
 
-The colors I have used are very simple. I have used Dark Green (#006400) to stand out from the other color of white, but mostly to represent the scenic grounds Ireland has to offer aswell as the color of greenery represented on cricket feilds. And the simple color of White (#FFFFFF) which is what cricketers clothes colors are, its simple enough, as the page naturally comes in white, and so do the clothes!
+The colours I have used are very simple. I have used Dark Green (#006400) to stand out from the other color of white, but mostly to represent the scenic grounds Ireland has to offer aswell as the color of greenery represented on cricket feilds. And the simple colour of White (#FFFFFF) which is what cricketers clothes colours are, its simple enough, as the page naturally comes in white, and so do the clothes!
 
 ### Wireframes
 
@@ -106,19 +106,19 @@ The Header contains The Club Logo (name). The navagation bar, which facilitates 
 - **Footer**
   ![Footer image](documentation/footer.png)
 
-The footer is simple enough across all pages, sporting the color of darkgreen, used across all pages with links to facebook and instagram. All is responsive.
+The footer is a simple display across all pages, sporting the color of darkgreen, used across all pages with links to facebook and instagram. All is responsive.
 
 ### Home
 
 - **Hero Image**
   ![Hero Image](documentation/heroimage.png)
 
-The Hero Image is used to attract the potential member to the landscape of cricket, which can be very beautiful, with the image also hosting standbyers. The hero image also has an address block on the bottom right, to imediately state the location of the cricket club before the viewer can move on. All is responsive.
+The Hero Image is used to attract the potential member to the landscape of cricket, which can be very beautiful, with the image also hosting standbyers. The hero image also has an address block on the bottom right, to immediately state the location of the cricket club before the viewer can move on. All is responsive.
 
 - **Welcome to the Oaks Section**
   ![Welcome to the Oaks Section](documentation/welcome.png)
 
-An introductory statement of the club, mostly of its welcome message and location. All is responsive.
+An introductory statement of the club, mostly for its welcome message and location. All is responsive.
 
 - **Map**
   ![Map](documentation/map.png)
@@ -190,7 +190,7 @@ The Map again, to remind the viewer of its location. All is responsive.
 
 - [Font Awesome](https://fontawesome.com/)
 
-  Font Awesome was used in the footer, location on the first page (Home) and a phone on the contact number on the last page(Contact Us) visual experience for UX purposes.
+  Font Awesome was used in the footer, location on the first page (Home) and a phone on the contact number on the last page(Contact Us) to give a visual experience for UX purposes.
 
 * [Balsamiq](https://balsamiq.com/)
 
@@ -256,7 +256,7 @@ TinyPNG was used to reduce the file size of the images for the website.
 
 ### Code Validation
 
-The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) services were used to validate all pages of the project in order to ensure there were no syntax errors.
+The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) services were used to validate all pages of the project in order to ensure there were no syntax errors and remove code that was obsolete.
 
 #### W3C Markup Validator
 
@@ -268,15 +268,15 @@ The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](ht
 
 There were originally a few errors in my W3C Markup Validator test, this is how I fixed them.
 
-- I forgot to add an l to the ul element for the navagation code, for all pages, therefore I added the l to the u making it ul, I then wrote a CSS for the ul code to make sure the navagation menu stays in its place. This fixed the first 4 errors.
+- I forgot to add an "l" to the "ul" element for the navagation code, for all pages, therefore I added the "l" to the "u" making it "ul", I then wrote a CSS for the "ul" code to make sure the navagation menu stays in its place. This fixed the first 4 errors.
 
 - The next few errors had to do with the map which I developed using Google Maps iframe Generator, I removed the width, frameborder, scrolling, margin-height and margin-width from the html code as it is obsolete. Then I added CSS code for the Map to do what I needed it to do. I also removed the a href text from the map code as it was obsolete too.
 
-- There was also a rouge a implemented in the social links by accident, so I removed it.
+- There was also a rouge "a" implemented in the social links by accident, so I removed it.
 
 ![W3C Markup Validator](documentation/htmlvalidator6.png)
 
-So I am left with 2 warnings where its warning me that the sections lack headings, however the sections do not need the use of headings in this case.
+So I am left with 2 warnings where it's warning me that the sections lack headings, however the sections do not need the use of headings in this case.
 
 #### W3C CSS Validator
 
@@ -286,7 +286,7 @@ No errors were found in the W3C CSS Validator test.
 
 ### Accessibility
 
-- Used Lighthouse in Chrome DevTools to confirm that the colors and fonts being used in throughout the website are easy to read and accessible.
+- I Used Lighthouse in Chrome DevTools to confirm that the content being used throughout the website are easy to read and accessible.
 
 - Lighthouse reports
 
@@ -324,7 +324,7 @@ The website has been tested on the following browsers:
 
 - **Goolgle Chrome**
 
-  No pearance, responsiveness nor functionality issues.
+  No appearance, responsiveness nor functionality issues.
 
 - **Mozilla Firefox**
 
@@ -360,32 +360,32 @@ No appearance, responsiveness nor functionality issues.
 
 - Common Elements Testing
 
-- All Pages
+  - All Pages
 
-  - **Navigation Bar**
+    **Navigation Bar**
 
     - Hovering on the different navigation bar's links will trigger hover effect, underlining the link for the viewer in dark green.
 
-    - Clicking on the navigation bar's links will bring the customer to the specified page.
+    - Clicking on the navigation bar's links will bring the viewer to the specified page.
 
-  - **Footer**
+    **Footer**
 
     - Clicking on the social media links will open that specific website on a new tab.
 
-  - **Map**
+    **Map**
 
     - Not necessarily across all pages but two of them (Home page and Contact Us page)
 
     - clicking and holding on the map, you will be able to move around the map to see other locations around it.
     - Press the plus/minus buttons to scroll and see more geography of the map and vice verse.
 
-    - You can also click on other locations to bring up basic details at the top right of the map.
+    - You can also click on other locations to bring up basic details at the top left of the map.
 
 - About Us Page
 
-  - There is a click here option on the About us text section which will lead you to the oakstavern@gmail.com which does not exist so an error page will show up on an new page.
+  - There is a "click here" option on the About us text section which will lead you to the oakstavern@gmail.com which does not exist so an error page will show up on an new page.
 
-- Contact Us Page
+* Contact Us Page
 
   - When filling out the contact us form, all fields are mandatory when clicking on the submit button.
 
@@ -451,13 +451,13 @@ No appearance, responsiveness nor functionality issues.
 
 ### Content
 
-Majority of the content was written by the developer, with some content inspired and used from [Wulnuts Taverners Cricket Club](http://walnuts.walnuttaverners.com/)
+Majority of the content was written by the developer, with some content inspired and used from [Wulnuts Taverners Cricket Club](http://walnuts.walnuttaverners.com/).
 
 ### Media
 
 - [Pixabay](https://pixabay.com/)
 
-Majority of the gallery images were uploaded from Pixabay for use
+Majority of the gallery images were uploaded from Pixabay for use.
 
 - [Picjumbo](https://picjumbo.com/)
 
@@ -465,21 +465,21 @@ Some content in the gallery and the other images in the About Us page and Contac
 
 - [Google](https://www.google.com/)
 
-Google was used to find the Hero Image.
+Google was used to find the right particular Hero Image.
 
 ### Code
 
 - [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/) were used regularly for ideas and sometimes guidance on how to go about certain codes.
 
-- [Google Maps iframe Generator](https://www.maps.ie/create-google-map/) was used to generate the ficticious map used in the website. There were errors from the HTML validator concerning the map however, so i removed them.
+- [Google Maps iframe Generator](https://www.maps.ie/create-google-map/) was used to generate the ficticious map used in the website. There were errors from the HTML validator concerning the map however, so I removed them.
 
 - The **Love Running** walkthrough project by Code Institute was used as guidance on how to go about the beginning stages of starting the website, the clarity of the website was inspired for this website, the navagation code was used and then altered to fit the context of the website, the gallery code was used as it was also inspired by [Wulnuts Taverners Cricket Club](http://walnuts.walnuttaverners.com/) (images were different however) and the Love Running Form Challenge code was used and then altered for the Contact Us form section.
 
 - The **Coding For Kids** example project shown by Code Insitiute, for its simplicity inspiration.
 
-- And of course [Crunchy Roll](https://www.crunchyroll.com/) for showing me my first idea was was too big for a project.
+- And of course [Crunchy Roll](https://www.crunchyroll.com/) for showing me my first idea was way too big for a first project.
 
-- [pura-vida-spa](https://josswe26-pura-vida-spa-2qhc3x8i3s.us2.codeanyapp.com/) for the structure and guidance of how to go about the README.md file.
+- And [pura-vida-spa](https://josswe26-pura-vida-spa-2qhc3x8i3s.us2.codeanyapp.com/) for the structure and guidance of how to go about the README.md file.
 
 [Back to top ⇧](#oaks-taverners-cricket-club)
 
