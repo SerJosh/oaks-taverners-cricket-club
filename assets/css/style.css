@@ -94,7 +94,7 @@ h3 {
 }
 
 #hero-address {
-    margin: 331px 30px 0 0;
+    margin: 331px 30px 0 400px;
     color: #fff;
     background-color:
         rgba(1, 50, 32, 0.6);
@@ -198,7 +198,7 @@ hr {
 }
 
 #how-to-play {
-    width: 200%;
+    width: 100%;
 }
 
 #here-button {
@@ -300,202 +300,212 @@ hr {
 
 /* media queries */
 
-@media screen and (max-width: 1300px) {
-
-    #menu {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 20px;
-    }
-
-    #right-about {
-        clear: both;
-        width: 100%;
-        float: left;
-        padding: 0;
-        margin: 0;
-        text-align: center;
-
-    }
-
-    #about-us-img {
-        height: auto;
-        width: 65%;
-        border: 5px solid darkgreen;
-        margin: 0 auto;
-    }
-
-
-    #left-about {
-        padding-top: 20px;
-        width: 90%;
-        float: left;
-    }
+@media screen and (max-width: 1500px) {
 
     #how-to-play {
-        width: 100%;
+        width: 200%;
     }
 
-    #about-us {
-        height: 2300px;
-    }
-}
-
-@media screen and (max-width: 1089px) {
-
-    #welcome-to-the-oaks {
-        height: 300px;
-        padding-top: 0%;
-        width: 60%;
-        margin: 0 auto;
-        text-align: center;
-        font-size: 140%;
+    #hero-address {
+        margin: 331px 30px 0 0;
     }
 
-    #left-about {
-        font-size: 100%;
+    @media screen and (max-width: 1300px) {
+
+        #menu {
+            clear: left;
+            float: left;
+            margin-left: 30px;
+            margin-bottom: 20px;
+            line-height: 20px;
+        }
+
+        #right-about {
+            clear: both;
+            width: 100%;
+            float: left;
+            padding: 0;
+            margin: 0;
+            text-align: center;
+
+        }
+
+        #about-us-img {
+            height: auto;
+            width: 65%;
+            border: 5px solid darkgreen;
+            margin: 0 auto;
+        }
+
+
+        #left-about {
+            padding-top: 20px;
+            width: 90%;
+            float: left;
+        }
+
+        #how-to-play {
+            width: 100%;
+        }
+
+        #about-us {
+            height: 2300px;
+        }
     }
 
-    #about-us {
-        height: 2200px;
-    }
-}
+    @media screen and (max-width: 1089px) {
 
-@media screen and (max-width: 908px) {
+        #welcome-to-the-oaks {
+            height: 300px;
+            padding-top: 0%;
+            width: 60%;
+            margin: 0 auto;
+            text-align: center;
+            font-size: 140%;
+        }
 
-    #welcome-to-the-oaks {
-        height: 300px;
-        padding-top: 0%;
-        width: 70%;
-        margin: 0 auto;
-        text-align: center;
-        font-size: 120%;
-    }
+        #left-about {
+            font-size: 100%;
+        }
 
-    #left-about {
-        font-size: 80%;
-    }
-
-    #photos {
-        column-count: 2;
+        #about-us {
+            height: 2200px;
+        }
     }
 
-    #about-us {
-        height: 1800px;
-    }
-}
+    @media screen and (max-width: 908px) {
 
-@media screen and (max-width: 802px) {
+        #welcome-to-the-oaks {
+            height: 300px;
+            padding-top: 0%;
+            width: 70%;
+            margin: 0 auto;
+            text-align: center;
+            font-size: 120%;
+        }
 
-    #address {
-        margin: 565px 30px 0 0;
-        color: #fff;
-        background-color:
-            rgba(1, 50, 32, 0.6);
-        max-width: 400px;
-        left: 5%;
-        padding: 30px;
-        float: left;
-        position: absolute;
-    }
+        #left-about {
+            font-size: 80%;
+        }
 
+        #photos {
+            column-count: 2;
+        }
 
-    .contact-us-form {
-        margin: 1px 10% 0 0;
-    }
-
-    #about-us {
-        height: 1800px;
-    }
-}
-
-@media screen and (max-width: 689px) {
-
-    #about-us {
-        height: 1900px;
-    }
-}
-
-@media screen and (max-width: 565px) {
-
-    #welcome-to-the-oaks {
-        height: 300px;
-        padding-top: 0%;
-        width: 95%;
-        margin: 0 auto;
-        text-align: center;
-        font-size: 105%;
+        #about-us {
+            height: 1800px;
+        }
     }
 
-    #left-about {
-        font-size: 60%;
+    @media screen and (max-width: 802px) {
+
+        #address {
+            margin: 565px 30px 0 0;
+            color: #fff;
+            background-color:
+                rgba(1, 50, 32, 0.6);
+            max-width: 400px;
+            left: 5%;
+            padding: 30px;
+            float: left;
+            position: absolute;
+        }
+
+
+        .contact-us-form {
+            margin: 1px 10% 0 0;
+        }
+
+        #about-us {
+            height: 1800px;
+        }
     }
 
-    #about-us-img {
-        width: 80%;
+    @media screen and (max-width: 689px) {
+
+        #about-us {
+            height: 1900px;
+        }
     }
 
-    #about-us {
-        height: 290vh;
-    }
-}
+    @media screen and (max-width: 565px) {
 
-@media screen and (max-width: 555px) {
+        #welcome-to-the-oaks {
+            height: 300px;
+            padding-top: 0%;
+            width: 95%;
+            margin: 0 auto;
+            text-align: center;
+            font-size: 105%;
+        }
 
-    #menu li {
-        margin-right: 15px;
-    }
+        #left-about {
+            font-size: 60%;
+        }
 
-    #menu {
-        font-size: 150%;
-        line-height: 60px;
-    }
-}
+        #about-us-img {
+            width: 80%;
+        }
 
-@media screen and (max-width: 460px) {
-
-    #menu li {
-        margin-right: 10px;
-    }
-
-    #menu {
-        font-size: 110%;
-        line-height: 30px;
+        #about-us {
+            height: 290vh;
+        }
     }
 
-    #logo {
-        font-size: 200%;
-        line-height: 50px;
+    @media screen and (max-width: 555px) {
+
+        #menu li {
+            margin-right: 15px;
+        }
+
+        #menu {
+            font-size: 150%;
+            line-height: 60px;
+        }
     }
 
-    #about-us {
-        height: 1550px;
+    @media screen and (max-width: 460px) {
+
+        #menu li {
+            margin-right: 10px;
+        }
+
+        #menu {
+            font-size: 110%;
+            line-height: 30px;
+        }
+
+        #logo {
+            font-size: 200%;
+            line-height: 50px;
+        }
+
+        #about-us {
+            height: 1550px;
+        }
+
     }
 
-}
+    @media screen and (max-width: 377px) {
 
-@media screen and (max-width: 377px) {
+        #about-us {
+            height: 1700px;
+        }
 
-    #about-us {
-        height: 1700px;
     }
 
-}
+    @media screen and (max-width: 342px) {
 
-@media screen and (max-width: 342px) {
+        #menu li {
+            margin-right: 5px;
+        }
 
-    #menu li {
-        margin-right: 5px;
+        #menu {
+            font-size: 100%;
+            line-height: 20px;
+        }
+
+        #about-us {
+            height: 1700px;
+        }
     }
-
-    #menu {
-        font-size: 100%;
-        line-height: 20px;
-    }
-
-    #about-us {
-        height: 1700px;
-    }
-}

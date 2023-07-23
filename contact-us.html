@@ -1,15 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Meta Data, Link and Title details -->
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Oaks Taverners Cricket Club, a social cricket club based in Dublin, Ireland">
     <meta name="keywords" content="Oaks Taverners Cricket Club, cricket club, Taverners, Dublin, Ireland">
-
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Oaks Taverners Cricket Club</title>
 </head>
@@ -17,21 +14,15 @@
 <body>
 
     <!-- Header -->
-
     <header>
         <h1 id="logo">Oaks Taverners <br> Cricket Club</h1>
-
         <!-- Sigil -->
-
         <div id="sigil">
             <img src="assets/images/sigil.png" alt="Coat of arms of an oak tree" id="sigil">
         </div>
-
         <!-- Navagation Menu -->
-
         <nav id="menu">
             <ul>
-
                 <li>
                     <a href="contact-us.html" class="active">Contact Us</a>
                 </li>
@@ -49,26 +40,24 @@
     </header>
 
     <!-- Contact Us form and image -->
-
     <section id="contact-us">
-        <form method="post" action="oakstavern@gmail.com" class="contact-us-form">
+        <form action="https://formdump.codeinstitute.net" method="POST" class="contact-us-form" target="2">
             <h2>Contact Us!</h2>
             <label for="name">Name</label>
-            <input type="text" id="name" name="name" class="text-input" required>
+            <input type="text" id="name" name="name" class="text-input" aria-label="name" required>
             <label for="email">Email</label>
-            <input type="email" id="email" name="email-address" class="text-input" required>
+            <input type="email" id="email" name="email-address" class="text-input" aria-label="email" required>
             <label for="subject">Subject</label>
-            <input type="text" id="subject" name="Subject" class="text-input" required>
-            <label for="Message">Message</label>
-            <textarea name="Message" id="message" cols="30" rows="10" class="text-input" type="text"
-                required></textarea>
+            <input type="text" id="subject" name="subject" class="text-input" aria-label="subject" required>
+            <label for="message">Message</label>
+            <textarea name="message" id="message" cols="30" rows="10" class="text-input" type="text"
+                aria-label="message" required></textarea>
             <label for="email-updates">Email updates</label>
-            <input type="checkbox" id="email-updates" name="email-updates" value="yes">
-            <input type="submit" value="Submit" class="submit-button">
+            <input type="checkbox" id="email-updates" name="email-updates" value="yes" aria-label="checkbox">
+            <input type="submit" value="Submit" class="submit-button" aria-label="submit">
         </form>
 
         <!-- Address Block -->
-
         <div id="address">
             <h2>Address</h2>
             <p>21 Two Oaks Avenue<br>Boden Park<br>Knocklyon<br>D14 U8RV</p>
@@ -79,7 +68,6 @@
     </section>
 
     <!-- Map -->
-
     <section>
         <div><iframe id="map"
                 src="https://maps.google.com/maps?width=100%25&amp;height=400&amp;hl=en&amp;q=%20Two%20Oaks+(Oaks%20Cricket%20Club)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
@@ -87,7 +75,6 @@
     </section>
 
     <!-- Footer -->
-
     <footer>
         <div>
             <ul id="social-links">
@@ -106,8 +93,8 @@
     </footer>
 
     <!--Font awesome-->
-
     <script src="https://kit.fontawesome.com/073846a99f.js" crossorigin="anonymous"></script>
+
 </body>
 
 </html>
