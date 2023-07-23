@@ -403,7 +403,7 @@ No appearance, responsiveness nor functionality issues.
 
   - When hovering over the submit button, the color will change to white, with the writing to dark green.
 
-  - When clicking on the submit button after filling in all the fields, the information will be sent to oakstavern@gmail.com, which does not exist therefor sending you to an error page.
+  - When clicking on the submit button after filling in all the fields, the information will be sent to https://formdump.codeinstitute.net/.
 
   [Back to top ⇧](#oaks-taverners-cricket-club)
 
