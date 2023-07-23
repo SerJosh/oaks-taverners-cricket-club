@@ -130,7 +130,7 @@ A Google map, stating the location of the area and the streets and districts aro
 - **About Us**
   ![About Us Section](documentation/aboutus.png)
 
-A section of heading and text giving you the general information about the club, it also has a link to the official Oaks Cricket Club if diesired to go there. All is responsive.
+A section of heading and text giving you the general information about the club. All is responsive.
 
 - **Cricketing Info**
   ![Cricketing Info Section](documentation/cricinfo.png)
@@ -236,7 +236,7 @@ TinyPNG was used to reduce the file size of the images for the website.
 
   - The Gallery page presents multiple images containing the club playing cricket and socialising, which is all in the Gallery.
 
-  - There are a few background images containing cricket elements, with the Home page containing a landscape image of the Clubs ground.
+  - There are a few background images containing cricket elements, with the Home page containing a landscape image of the club's ground.
 
 * As a viewer, I want to easily find the contact information for the club.
 
@@ -385,10 +385,6 @@ No appearance, responsiveness nor functionality issues.
 
   - You can also click on other locations to bring up basic details at the top left of the map.
 
-- About Us Page
-
-  - There is a "click here" option on the About us text section which will lead you to the oakstavern@gmail.com which does not exist so an error page will show up on an new page.
-
 * Contact Us Page
 
   - When filling out the contact us form, all fields are mandatory when clicking on the submit button.
@@ -443,7 +439,7 @@ No appearance, responsiveness nor functionality issues.
 
   2. At the top of the Repository, locate the Settings button on the menu.
 
-  3. Scroll down the Settings page until you locate the Pages section on the left of the screen.
+  3. Scroll down the Settings page until you locate the Pages section.
 
   4. Under Branch, click on select branch and from the dropdown list choose main.
 
