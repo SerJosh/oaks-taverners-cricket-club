@@ -457,15 +457,15 @@ Majority of the content was written by the developer, with some content inspired
 
 - [Pixabay](https://pixabay.com/)
 
-Majority of the gallery images were uploaded from Pixabay for use.
+  Majority of the gallery images were uploaded from Pixabay for use.
 
 - [Picjumbo](https://picjumbo.com/)
 
-Some content in the gallery and the other images in the About Us page and Contact Us page were uploaded from Picjumbo.
+  Some content in the gallery and the other images in the About Us page and Contact Us page were uploaded from Picjumbo.
 
 - [Google](https://www.google.com/)
 
-Google was used to find the right particular Hero Image.
+  Google was used to find the right particular Hero Image.
 
 ### Code
 
